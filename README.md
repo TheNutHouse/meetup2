@@ -1,6 +1,6 @@
-# Meetup 1
+# Meetup 2
 
-### SQL & NoSQL
+### Evolution of Web
 
 ## Date:
 October 12, 2017 (5:00 PM - 6:00 PM)
