@@ -24,7 +24,7 @@ TGIM (Ramco Systems, Adyar, Chennai, INDIA)
 
 1. Lavanya A - Organizing and helping us throughout with the logistics, discussions, brainstorming, etc.
 
-2. Jennifer George & Vinitha Ramani - For helping us with all meetup related communications to all the people, getting us samosas, coffee & tea.
+2. Jennifer George, Sirsendu Sarkar & Vinitha Ramani - For helping us with all meetup related communications to all the people, getting us samosas, coffee & tea.
 
 3. Kavitha - For designing the email templates for communication
 
